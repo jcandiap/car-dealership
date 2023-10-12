@@ -45,6 +45,12 @@ $ yarn run start:dev
 $ yarn run start:prod
 ```
 
+## Populate DB
+Nex to start the app run the following link
+```
+http://localhost:3000/seed
+```
+
 ## Test
 
 ```bash
